@@ -31,11 +31,12 @@ body {
     overflow: hidden;
     
     transition: 0.5s;
+    object-fit: cover;
     
 }
 
 .photo:hover {
-    width: 300px;
+    width: 200px;
     transform: scale(1);
 }
 
@@ -45,7 +46,7 @@ body {
 }
 
 .image {
-    height: 200px;
+    height: 270px;
 }
 
 .caption {
