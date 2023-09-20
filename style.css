@@ -26,13 +26,9 @@ body {
     height: 350px;
     width: 50px;
     border-radius: 10px;
-
-    
     overflow: hidden;
-    
     transition: 0.5s;
-    object-fit: cover;
-    
+    object-fit: cover;  
 }
 
 .photo:hover {
